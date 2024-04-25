@@ -43,7 +43,7 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Boy_Girl_Dl")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/freinds_club")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Incricible")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", "True")
@@ -86,7 +86,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/0c373d33859cd378dcafe.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/dd723600647f978591382.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://graph.org/file/f16f757fe9c10f81b67ef.jpg"
