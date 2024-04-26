@@ -73,7 +73,7 @@ async def start(_, msg):
 @capture_err
 async def repo(_, message):
     async with httpx.AsyncClient() as client:
-        response = await client.get("https://api.github.com/repos/stkeditz/AAROHIxMUSICv2/contributors")
+        response = await client.get("https://api.github.com/repos/greatpersonxd/senorita/contributors")
     
     if response.status_code == 200:
         users = response.json()
@@ -83,7 +83,7 @@ async def repo(_, message):
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
 
-        text = f"""[ʀᴇᴘᴏ](https://github.com/stkeditz/AAROHIxMUSICv2) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/alonegroup121)
+        text = f"""[ʀᴇᴘᴏ](https://github.com/greatpersonxd/senorita) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/incricible)
 | ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs |
 ----------------
 {list_of_users}"""
