@@ -24,42 +24,42 @@ async def start(_, msg):
           InlineKeyboardButton("⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ʜᴇʟᴘ", url="https://t.me/AAROHI_SUPPORT_CHAT"),
-          InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/dil_sagar_121"),
+          InlineKeyboardButton("ʜᴇʟᴘ", url="https://t.me/INCRICIBLE"),
+          InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/Greatperson_xf"),
         ],
         [
-          InlineKeyboardButton("ᴠ1 ᴍᴜsɪᴄ", url=f"https://github.com/stkeditz/AAROHIxMUSIC"),
-          InlineKeyboardButton("︎ᴠ2 ᴍᴜsɪᴄ", url=f"https://github.com/stkeditz/AAROHIxMUSICv2"),
+          InlineKeyboardButton("ᴠ1 ᴍᴜsɪᴄ", url=f"https://github.com/greatpersonxd/senorita"),
+          InlineKeyboardButton("︎ᴠ2 ᴍᴜsɪᴄ", url=f"https://github.com/godfatherlegend/LEGENDMUSIC2-1"),
         ],
         [
-          InlineKeyboardButton("ᴍᴀñᴀɢᴇᴍᴇɴᴛ", url=f"https://github.com/BadshahAk/AnsiRobot"),
+          InlineKeyboardButton("ᴍᴀñᴀɢᴇᴍᴇɴᴛ", url=f"https://github.com/greatpersonxd/senorita"),
           InlineKeyboardButton("ᴄʜᴀᴛ ʙᴏᴛ", url=f"https://github.com/stkeditz/AAROHIxCHATBOT"),
         ],
         [
-          InlineKeyboardButton("sᴛʀɪɴɢ ʙᴏᴛ", url=f"https://github.com/stkeditz/AAROHIxSTRINGBOT"),
-          InlineKeyboardButton("ᴅᴘᴢ sᴛᴏʀᴇ", url=f"https://t.me/dil_dpz_stocks"),
+          InlineKeyboardButton("sᴛʀɪɴɢ ʙᴏᴛ", url=f"https://t.me/BOY_GIRL_DP"),
+          InlineKeyboardButton("ᴅᴘᴢ sᴛᴏʀᴇ", url=f"https://t.me/BOY_GIRL_DP"),
         ],
         [
-          InlineKeyboardButton("ᴄᴄ ᴄʜᴀᴛ", url="https://t.me/heruko_cc"),
-          InlineKeyboardButton("ᴀʟᴏɴᴇ ɢʀᴏᴜᴘ", url=f"https://t.me/LOVE_FEELINGS_WILL1"),
+          InlineKeyboardButton("ᴄᴄ ᴄʜᴀᴛ", url="https://t.me/BOY_GIRL_DP"),
+          InlineKeyboardButton("ᴀʟᴏɴᴇ ɢʀᴏᴜᴘ", url=f"https://t.me/BOY_GIRL_DP"),
         ],
         [
-          InlineKeyboardButton("ʟᴀᴛᴇ ɴɪɢʜᴛ︎", url=f"https://t.me/Late_Night_Chatters"),
-          InlineKeyboardButton("ᴅᴜɴɪʏᴀ", url=f"https://t.me/dil_ki_duniya"),
+          InlineKeyboardButton("ʟᴀᴛᴇ ɴɪɢʜᴛ︎", url=f"https://t.me/BOY_GIRL_DP"),
+          InlineKeyboardButton("ᴅᴜɴɪʏᴀ", url=f"https://t.me/BOY_GIRL_DP"),
         ],
         [
-          InlineKeyboardButton("ᴅɪʟ ғᴇᴇʟɪɴɢs", url=f"https://t.me/Dil_Feelings_Will"),
-          InlineKeyboardButton("ʟᴏᴠᴇ ғᴇᴇʟɪɴɢs", url=f"https://t.me/LOVE_FEELINGS_WILL_121"),
+          InlineKeyboardButton("ᴅɪʟ ғᴇᴇʟɪɴɢs", url=f"https://t.me/BOY_GIRL_DP"),
+          InlineKeyboardButton("ʟᴏᴠᴇ ғᴇᴇʟɪɴɢs", url=f"https://t.me/BOY_GIRL_DP"),
         ],
         [
-          InlineKeyboardButton("ᴅɪʟ sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/alonegroup121"),
+          InlineKeyboardButton("ᴅɪʟ sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/incricible"),
         ]
     ]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://telegra.ph/file/d3e94fa78cb489c1effbd.jpg",
+        photo="https://graph.org//file/aeced6ecd99255554ef57.jpg",
         caption=start_txt,
         reply_markup=reply_markup,
     )
