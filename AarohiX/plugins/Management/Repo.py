@@ -25,7 +25,7 @@ async def start(_, msg):
         ],
         [
           InlineKeyboardButton("ʜᴇʟᴘ", url="https://t.me/INCRICIBLE"),
-          InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/Greatperson_xf"),
+          InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/Greatperson_xd"),
         ],
         [
           InlineKeyboardButton("ᴠ1 ᴍᴜsɪᴄ", url=f"https://github.com/greatpersonxd/senorita"),
@@ -40,19 +40,19 @@ async def start(_, msg):
           InlineKeyboardButton("ᴅᴘᴢ sᴛᴏʀᴇ", url=f"https://t.me/BOY_GIRL_DP"),
         ],
         [
-          InlineKeyboardButton("ᴄᴄ ᴄʜᴀᴛ", url="https://t.me/BOY_GIRL_DP"),
-          InlineKeyboardButton("ᴀʟᴏɴᴇ ɢʀᴏᴜᴘ", url=f"https://t.me/BOY_GIRL_DP"),
+          InlineKeyboardButton("ᴄᴄ ᴄʜᴀᴛ", url="https://t.me/freeccheroku"),
+          InlineKeyboardButton("ᴄʜᴀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/Freinds_Club"),
         ],
         [
-          InlineKeyboardButton("ʟᴀᴛᴇ ɴɪɢʜᴛ︎", url=f"https://t.me/BOY_GIRL_DP"),
-          InlineKeyboardButton("ᴅᴜɴɪʏᴀ", url=f"https://t.me/BOY_GIRL_DP"),
+          InlineKeyboardButton("ʟᴀᴛᴇ ɴɪɢʜᴛ︎", url=f"https://t.me/Shayri_For_uh"),
+          InlineKeyboardButton("ᴅᴜɴɪʏᴀ", url=f"https://t.me/The_Incricible"),
         ],
         [
-          InlineKeyboardButton("ᴅɪʟ ғᴇᴇʟɪɴɢs", url=f"https://t.me/BOY_GIRL_DP"),
-          InlineKeyboardButton("ʟᴏᴠᴇ ғᴇᴇʟɪɴɢs", url=f"https://t.me/BOY_GIRL_DP"),
+          InlineKeyboardButton("ᴅɪʟ ғᴇᴇʟɪɴɢs", url=f"https://t.me/Shayri_For_uh"),
+          InlineKeyboardButton("ᴀʙᴏᴜᴛ ɢʀᴇᴀᴛᴘᴇʀꜱᴏɴ", url=f"https://t.me/About_Godfather"),
         ],
         [
-          InlineKeyboardButton("ᴅɪʟ sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/incricible"),
+          InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/incricible"),
         ]
     ]
     
