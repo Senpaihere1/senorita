@@ -1,4 +1,4 @@
-from VIPMUSIC import app
+from AarohiX import app
 from pyrogram import Client, filters
 from pyrogram.enums import ChatMemberStatus
 from pyrogram.errors import (
@@ -15,11 +15,11 @@ from PIL import Image, ImageDraw, ImageFont
 from os import environ
 import requests
 import random
-from VIPMUSIC import app, userbot
-from VIPMUSIC.misc import SUDOERS
+from AarohiX import app, userbot
+from AarohiX.misc import SUDOERS
 from pyrogram import * 
 from pyrogram.types import *
-from VIPMUSIC.utils.vip_ban import admin_filter
+from AarohiX.utils.vip_ban import admin_filter
 import random
 from pyrogram import Client, filters
 from pyrogram.types import ChatJoinRequest, InlineKeyboardButton, InlineKeyboardMarkup
